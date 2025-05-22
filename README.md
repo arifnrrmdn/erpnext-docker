@@ -51,8 +51,8 @@ sudo docker-compose up
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/arifnrrmdn/erpnext-docker/blob/main/screenshots/1.png)
+![App Screenshot](https://github.com/arifnrrmdn/erpnext-docker/blob/main/screenshots/2.png)
+![App Screenshot](https://github.com/arifnrrmdn/erpnext-docker/blob/main/screenshots/3.png)
+![App Screenshot](https://github.com/arifnrrmdn/erpnext-docker/blob/main/screenshots/4.png)
+![App Screenshot](https://github.com/arifnrrmdn/erpnext-docker/blob/main/screenshots/5.png)
