@@ -1,8 +1,6 @@
 
 # ERPNext Development docker setup by Ariev
 
-Tolong do'ain pembuat repo ini biar cepet ketemu jodoh
-
 
 project ini running di port 8888 | 
 default user : Administrator |  master password : salimatmin
